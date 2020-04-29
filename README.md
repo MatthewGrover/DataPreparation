@@ -1,4 +1,5 @@
 # DataPreparation
+https://mybinder.org/v2/gh/MatthewGrover/DataPreparation/master
 Предварительная обработка данных
 
 Используемые набор данных получен отсюда: https://data.world/uci/computer-hardware
